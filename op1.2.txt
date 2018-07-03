@@ -1,0 +1,65 @@
+
+C:\Users\4082\Desktop\Vivek>javac playfaircipher.java
+
+C:\Users\4082\Desktop\Vivek>java playfaircipher
+Keyword for matrix:
+hello
+
+Input string:
+hello world llll
+
+TABLE:
+
+H E L O A
+B C D F G
+I K M N P
+Q R S T U
+V W X Y Z
+
+Original message:
+ELDLOAYESEMDDLOO
+
+Decoded message:
+HELXLOWORLDLLXLL
+
+C:\Users\4082\Desktop\Vivek>java playfaircipher
+Keyword for matrix:
+ssnce
+
+Input string:
+anna university
+
+TABLE:
+
+S N C E A
+B D F G H
+I K L M O
+P Q R T U
+V W X Y Z
+
+Original message:
+SCCSQAPSCTBPYE
+
+Decoded message:
+ANNAUNIVERSITY
+
+C:\Users\4082\Desktop\Vivek>java playfaircipher
+Keyword for matrix:
+ssnce
+
+Input string:
+balloon
+
+TABLE:
+
+S N C E A
+B D F G H
+I K L M O
+P Q R T U
+V W X Y Z
+
+Original message:
+HSRCMIKA
+
+Decoded message:
+BALXLOON
